@@ -58,7 +58,7 @@ This is a comprehensive vulnerability scanning tool for OpenSSH, designed to det
 ```sh
 python ssh.py -u 192.168.1.100
 ```
-### Example output:
+### 1.1 Example output:
 ```sh
 [2024-08-25 10:15:23] [OK] 192.168.1.100:22 - OpenSSH_8.2p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
 ```
@@ -74,7 +74,7 @@ Then run:
 ```sh
 python ssh.py -f targets.txt --output results.txt -t 3
 ```
-### Example output:
+### 2.1 Example output:
 ```sh
 [2024-08-25 10:16:05] [VULN] 192.168.1.101:22 - OpenSSH_7.5p1 Debian-10+deb9u1 - CVE-2018-15473
 [2024-08-25 10:16:06] [ERROR] 192.168.1.102:2222 - Connection refused
@@ -85,7 +85,7 @@ python ssh.py -f targets.txt --output results.txt -t 3
 ```sh
 python ssh.py -f targets.txt --output results.json --format json -t 4
 ```
-### Example results.json
+### 3.1 Example results.json
 ```sh
 [
     {
@@ -110,7 +110,7 @@ python ssh.py -f targets.txt --output results.json --format json -t 4
 ```sh
 python ssh.py -f targets.txt --output results.csv --format csv -t 4
 ```
-### Example results.csv
+### 4.1 Example results.csv
 ```sh
 Timestamp,Level,Message
 2024-08-25 10:18:45,VULN,192.168.1.101:22 - OpenSSH_7.5p1 Debian-10+deb9u1 - CVE-2018-15473
