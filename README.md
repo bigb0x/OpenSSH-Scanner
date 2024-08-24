@@ -4,7 +4,7 @@ OpenSSH Vulnerabilities Scanner: Bulk Scanning Tool for 21 different OpenSSH CVE
 ![Banner](screens/screen1.jpg)
 
 ## Overview
-This Python script is a comprehensive vulnerability scanner for OpenSSH, designed to detect multiple CVEs across various OpenSSH versions. It supports bulk scanning and can detect vulnerabilities including CVE-2024-6387, CVE-2024-6409, and 19 other CVEs affecting OpenSSH versions ranging from 2.3.0 to 9.7.
+This is a comprehensive vulnerability scanning tool for OpenSSH, designed to detect multiple CVEs across various OpenSSH versions. It supports bulk scanning and can detect and report vulnerabilities including CVE-2024-6387, CVE-2024-6409, and 19 other CVEs affecting OpenSSH versions ranging from 2.3.0 to 9.7.
 
 ## Key Features
 
