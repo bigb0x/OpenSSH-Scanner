@@ -55,27 +55,27 @@ This Python script is a comprehensive vulnerability scanner for OpenSSH, designe
 ## Usage Examples
 
 ### 1. Scanning a single target
-```bash
+```sh
 python ssh.py -u 192.168.1.100
 ```
 ### Example output:
-```bash
+```sh
 [2024-08-25 10:15:23] [OK] 192.168.1.100:22 - OpenSSH_8.2p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
 ```
 
 ### 2. Scanning multiple targets from a file
 Create a file named targets.txt with target IPs, for example:
-```bash
+```sh
 192.168.1.101
 192.168.1.102:2222
 192.168.1.103
 ```
 Then run:
-```bash
+```sh
 python ssh.py -f targets.txt --output results.txt -t 3
 ```
 ### Example output:
-```bash
+```sh
 [2024-08-25 10:16:05] [VULN] 192.168.1.101:22 - OpenSSH_7.5p1 Debian-10+deb9u1 - CVE-2018-15473
 [2024-08-25 10:16:06] [ERROR] 192.168.1.102:2222 - Connection refused
 [2024-08-25 10:16:07] [OK] 192.168.1.103:22 - OpenSSH_8.9p1 Ubuntu-3ubuntu0.1 - Not Vulnerable
