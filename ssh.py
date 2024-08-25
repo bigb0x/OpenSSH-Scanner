@@ -139,7 +139,7 @@ def is_vulnerable(version):
             (parse_version("6.9"), parse_version("6.9p1"), "CVE-2016-10012"),
             (parse_version("7.7"), parse_version("7.7p2"), "CVE-2018-15473"),
             (parse_version("8.5"), parse_version("9.7"), "CVE-2024-6387"),
-            (parse_version("8.5p1"), parse_version("9.7p1"), "CVE-2024-6409")
+            (parse_version("8.5p1"), parse_version("9.7p1"), "CVE-2024-6409"),
             (parse_version("8.5"), parse_version("9.7"), "CVE-2024-6387"),
             (parse_version("8.5"), parse_version("9.7"), "CVE-2024-6409")
         ]
@@ -155,18 +155,35 @@ def check_ssh_vulnerability(host, port):
     try:
         sock = socket.create_connection((host, port), timeout=2)
         sock.sendall(b'SSH-2.0-CheckVersion\r\n')
-        response = sock.recv(256).decode('utf-8')
+        response = sock.recv(256)
         sock.close()
 
-        if response:
-            vulnerable, cve = is_vulnerable(response.strip())
+        # Try multiple encodings
+        encodings = ['utf-8', 'latin-1', 'ascii', 'utf-16']
+        decoded_response = None
+        for encoding in encodings:
+            try:
+                decoded_response = response.decode(encoding)
+                break
+            except UnicodeDecodeError:
+                continue
+
+        if decoded_response is None:
+            # If all decoding attempts fail, use a byte string representation
+            decoded_response = str(response)
+
+        stripped_response = decoded_response.strip()
+        if stripped_response:
+            vulnerable, cve = is_vulnerable(stripped_response)
             if vulnerable:
-                print_message('vulnerable', f"{host}:{port} - {response.strip()} - {cve}")
+                print_message('vulnerable', f"{host}:{port} - {stripped_response} - {cve}")
             else:
-                if 'HTTP' in response.strip():
+                if 'HTTP' in stripped_response:
                     print_message('error', f"{host}:{port} - Not valid SSH host")
                 else:
-                    print_message('ok', f"{host}:{port} - {response.strip()} - Not Vulnerable")
+                    print_message('ok', f"{host}:{port} - {stripped_response} - Not Vulnerable")
+        else:
+            print_message('error', f"{host}:{port} - Empty response")
     except socket.timeout:
         print_message('error', f"{host}:{port} - Connection timed out")
     except socket.error as e:
@@ -205,11 +222,17 @@ def main():
                 
                     if target:
                         if "://" in target:
-                            target = target.split("://")[1]
+                            target = target.split("://")[-1]
                         target = target.rstrip('/')
                         if ':' in target:
-                            host, port = target.split(':')
-                            q.put((host, int(port)))
+                            parts = target.split(':')
+                            host = parts[0]
+                            try:
+                                port = int(parts[-1])
+                            except ValueError:
+                                print_message('warning', f"Invalid port in line: {line.strip()}. Using default port 22.")
+                                port = 22
+                            q.put((host, port))
                         else:
                             q.put((target, 22))
         except FileNotFoundError:

@@ -1,0 +1,470 @@
+2024-08-24 20:10:19 - Log directory created: logs
+2024-08-24 20:13:31 - 34.213.118.37:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:13:31 - 195.154.233.240:22 - SSH-2.0-OpenSSH_5.5p1 Debian-6+squeeze5 - Not Vulnerable
+2024-08-24 20:13:31 - 80.70.184.191:22 - SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1 - Not Vulnerable
+2024-08-24 20:13:31 - 35.234.147.152:22 - SSH-2.0-OpenSSH_8.4p1 - Not Vulnerable
+2024-08-24 20:13:31 - 170.150.220.100:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u2 - Not Vulnerable
+2024-08-24 20:13:31 - 194.113.34.182:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:13:31 - 178.185.136.222:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:13:31 - 46.17.41.53:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:13:31 - 198.46.189.102:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:13:31 - 177.71.195.27:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:13:31 - 51.20.94.61:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:13:31 - 172.104.221.139:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:13:31 - 3.94.113.103:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:13:31 - 34.125.49.135:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:13:31 - 35.92.64.160:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:13:31 - 149.202.84.132:22 - [Errno 61] Connection refused
+2024-08-24 20:13:31 - 176.126.99.123:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:13:31 - 192.142.230.60:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:13:31 - 175.211.116.250:22 - Connection timed out
+2024-08-24 20:13:31 - 112.74.59.249:22 - Connection timed out
+2024-08-24 20:13:31 - 162.243.248.19:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:13:31 - 64.227.160.209:22 - SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.4 - Not Vulnerable
+2024-08-24 20:13:31 - 94.177.250.191:22 - SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 - Not Vulnerable
+2024-08-24 20:13:31 - 47.121.203.28:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:13:31 - 34.138.221.205:22 - SSH-2.0-OpenSSH_8.5 - Not Vulnerable
+2024-08-24 20:13:31 - 157.90.141.205:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:13:31 - 158.39.75.81:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:13:31 - 90.59.122.173:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:13:31 - 172.104.142.130:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2 - Not Vulnerable
+2024-08-24 20:13:31 - 35.238.217.84:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:13:31 - 98.70.50.210:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:13:31 - 138.197.86.196:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:13:31 - 5.75.166.162:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:17 - 34.213.118.37:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:16:17 - 195.154.233.240:22 - SSH-2.0-OpenSSH_5.5p1 Debian-6+squeeze5 - Not Vulnerable
+2024-08-24 20:16:17 - 80.70.184.191:22 - SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1 - Not Vulnerable
+2024-08-24 20:16:17 - 35.234.147.152:22 - SSH-2.0-OpenSSH_8.4p1 - Not Vulnerable
+2024-08-24 20:16:17 - 170.150.220.100:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u2 - Not Vulnerable
+2024-08-24 20:16:17 - 194.113.34.182:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:17 - 178.185.136.222:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:17 - 46.17.41.53:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:17 - 198.46.189.102:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:17 - 51.20.94.61:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:17 - 172.104.221.139:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:17 - 177.71.195.27:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:16:17 - 3.94.113.103:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:17 - 35.92.64.160:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:17 - 34.125.49.135:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:17 - 149.202.84.132:22 - [Errno 61] Connection refused
+2024-08-24 20:16:17 - 176.126.99.123:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:17 - 192.142.230.60:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:17 - 54.193.237.137:22 - SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2 - Not Vulnerable
+2024-08-24 20:16:17 - 64.227.160.209:22 - SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.4 - Not Vulnerable
+2024-08-24 20:16:17 - 162.243.248.19:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:17 - 47.121.203.28:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:17 - 94.177.250.191:22 - SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 - Not Vulnerable
+2024-08-24 20:16:17 - 175.211.116.250:22 - Connection timed out
+2024-08-24 20:16:17 - 34.138.221.205:22 - SSH-2.0-OpenSSH_8.5 - Not Vulnerable
+2024-08-24 20:16:17 - 157.90.141.205:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:17 - 158.39.75.81:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:17 - 90.59.122.173:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:16:17 - 112.74.59.249:22 - Connection timed out
+2024-08-24 20:16:17 - 35.238.217.84:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:16:17 - 172.104.142.130:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2 - Not Vulnerable
+2024-08-24 20:16:17 - 138.197.86.196:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 34.213.118.37:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:16:22 - 80.70.184.191:22 - SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1 - Not Vulnerable
+2024-08-24 20:16:22 - 195.154.233.240:22 - SSH-2.0-OpenSSH_5.5p1 Debian-6+squeeze5 - Not Vulnerable
+2024-08-24 20:16:22 - 35.234.147.152:22 - SSH-2.0-OpenSSH_8.4p1 - Not Vulnerable
+2024-08-24 20:16:22 - 170.150.220.100:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u2 - Not Vulnerable
+2024-08-24 20:16:22 - 194.113.34.182:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 178.185.136.222:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 46.17.41.53:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 198.46.189.102:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 51.20.94.61:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 172.104.221.139:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 177.71.195.27:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:16:22 - 3.94.113.103:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 35.92.64.160:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 34.125.49.135:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 149.202.84.132:22 - [Errno 61] Connection refused
+2024-08-24 20:16:22 - 176.126.99.123:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 192.142.230.60:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 54.193.237.137:22 - SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2 - Not Vulnerable
+2024-08-24 20:16:22 - 64.227.160.209:22 - SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.4 - Not Vulnerable
+2024-08-24 20:16:22 - 162.243.248.19:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 47.121.203.28:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:22 - 94.177.250.191:22 - SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 - Not Vulnerable
+2024-08-24 20:16:22 - 175.211.116.250:22 - Connection timed out
+2024-08-24 20:16:22 - 34.138.221.205:22 - SSH-2.0-OpenSSH_8.5 - Not Vulnerable
+2024-08-24 20:16:22 - 157.90.141.205:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:22 - 158.39.75.81:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:22 - 90.59.122.173:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:16:22 - 112.74.59.249:22 - Connection timed out
+2024-08-24 20:16:22 - 35.238.217.84:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:16:22 - 172.104.142.130:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2 - Not Vulnerable
+2024-08-24 20:16:22 - 138.197.86.196:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 98.70.50.210:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 5.75.166.162:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 45.79.25.63:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 118.178.241.227:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 8.137.153.92:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:22 - 3.130.236.203:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 15.206.28.147:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 78.132.56.97:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2 - Not Vulnerable
+2024-08-24 20:16:22 - 35.154.203.82:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 108.179.193.21:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 192.185.95.122:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 34.106.89.103:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4 - Not Vulnerable
+2024-08-24 20:16:22 - 126.125.104.115:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
+2024-08-24 20:16:22 - 35.168.171.48:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:16:22 - 165.227.23.159:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:16:22 - 37.128.144.35:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 192.163.177.141:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 204.48.19.206:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:16:22 - 197.5.145.141:22 - SSH-2.0--
+  [K0)~"a:   >diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1   #ecdsa-sha2-nistp521,ssh-dss,ssh-rsa   4aes256-ctr,aes128-ctr,aes256-cbc,aes128-cbc,3des-cbc   4aes256-ctr,aes128-ctr,aes256-cbc,aes128-cbc,3des-cbc   Jhma - Not Vulnerable
+2024-08-24 20:16:22 - 13.125.127.137:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:16:22 - 69.195.124.99:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 89.117.73.141:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6 - Not Vulnerable
+2024-08-24 20:16:22 - 136.144.233.145:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 219.115.34.221:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.9 - Not Vulnerable
+2024-08-24 20:16:22 - 202.139.198.40:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 222.125.240.186:22 - SSH-2.0-OpenSSH_9.1 - Not Vulnerable
+2024-08-24 20:16:22 - 52.73.136.252:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 111.202.125.139:22 - Connection timed out
+2024-08-24 20:16:22 - 44.222.108.248:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 84.94.121.65:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:16:22 - 194.163.178.146:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 130.211.111.77:22 - SSH-2.0-OpenSSH_9.6p1 r3 - Not Vulnerable
+2024-08-24 20:16:22 - 73.101.15.194:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2 - Not Vulnerable
+2024-08-24 20:16:22 - 149.166.93.205:22 - SSH-2.0-OpenSSH_5.3 - Not Vulnerable
+2024-08-24 20:16:22 - 124.156.214.51:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 2a01:2 - [Errno 8] nodename nor servname provided, or not known
+2024-08-24 20:16:22 - 34.235.138.211:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:16:22 - 124.223.179.25:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.6 - Not Vulnerable
+2024-08-24 20:16:22 - 142.0.139.109:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 85.226.188.38:22 - Connection timed out
+2024-08-24 20:16:22 - 154.206.66.153:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 1.13.13.184:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 123.56.47.15:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 195.16.241.252:22 - SSH-1.99-OpenSSH_4.4 - Not Vulnerable
+2024-08-24 20:16:22 - 8.134.33.132:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2 - Not Vulnerable
+2024-08-24 20:16:22 - 34.39.130.78:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 191.198.15.240:22 - Connection timed out
+2024-08-24 20:16:22 - 138.68.99.37:22 - SSH-2.0-OpenSSH_6.6.1 - Not Vulnerable
+2024-08-24 20:16:22 - 162.144.185.155:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 149.161.124.191:22 - SSH-2.0-OpenSSH_5.3
+  ^F񚞸"F\   curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1   ssh-rsa   Maes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.co - Not Vulnerable
+2024-08-24 20:16:22 - 167.235.142.225:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 185.183.208.103:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:16:22 - 133.18.202.127:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
+2024-08-24 20:16:22 - 47.120.74.194:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:22 - 188.164.198.213:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 103.231.86.52:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.1 - Not Vulnerable
+2024-08-24 20:16:22 - 50.87.153.89:22 - SSH-2.0-OpenSSH_5.3 - Not Vulnerable
+2024-08-24 20:16:22 - 64.207.146.74:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 85.9.101.27:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.1 - Not Vulnerable
+2024-08-24 20:16:22 - 83.97.77.171:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 18.179.72.192:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:16:22 - 34.75.44.81:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:16:22 - 38.145.142.225:22 - Exceeded MaxStartups - Not Vulnerable
+2024-08-24 20:16:22 - 45.63.92.197:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:16:22 - 78.46.181.115:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:16:22 - 211.149.206.21:22 - [Errno 61] Connection refused
+2024-08-24 20:16:22 - 66.97.33.102:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:16:22 - 50.5.142.82:22 - Connection timed out
+2024-08-24 20:19:03 - 34.213.118.37:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:19:03 - 80.70.184.191:22 - SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1 - Not Vulnerable
+2024-08-24 20:19:03 - 195.154.233.240:22 - SSH-2.0-OpenSSH_5.5p1 Debian-6+squeeze5 - Not Vulnerable
+2024-08-24 20:19:03 - 35.234.147.152:22 - SSH-2.0-OpenSSH_8.4p1 - Not Vulnerable
+2024-08-24 20:19:03 - 170.150.220.100:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u2 - Not Vulnerable
+2024-08-24 20:19:03 - 178.185.136.222:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 194.113.34.182:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 46.17.41.53:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 198.46.189.102:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 51.20.94.61:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 172.104.221.139:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 177.71.195.27:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:19:03 - 3.94.113.103:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 34.125.49.135:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 35.92.64.160:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 149.202.84.132:22 - [Errno 61] Connection refused
+2024-08-24 20:19:03 - 176.126.99.123:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 192.142.230.60:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 54.193.237.137:22 - SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2 - Not Vulnerable
+2024-08-24 20:19:03 - 64.227.160.209:22 - SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.4 - Not Vulnerable
+2024-08-24 20:19:03 - 162.243.248.19:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 47.121.203.28:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:19:03 - 94.177.250.191:22 - SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.8 - Not Vulnerable
+2024-08-24 20:19:03 - 175.211.116.250:22 - Connection timed out
+2024-08-24 20:19:03 - 34.138.221.205:22 - SSH-2.0-OpenSSH_8.5 - Not Vulnerable
+2024-08-24 20:19:03 - 157.90.141.205:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:19:03 - 158.39.75.81:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:19:03 - 90.59.122.173:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:19:03 - 112.74.59.249:22 - Connection timed out
+2024-08-24 20:19:03 - 35.238.217.84:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:19:03 - 138.197.86.196:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 172.104.142.130:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2 - Not Vulnerable
+2024-08-24 20:19:03 - 98.70.50.210:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 5.75.166.162:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 45.79.25.63:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 8.137.153.92:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:19:03 - 118.178.241.227:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 3.130.236.203:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 15.206.28.147:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 78.132.56.97:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2 - Not Vulnerable
+2024-08-24 20:19:03 - 35.154.203.82:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 108.179.193.21:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 192.185.95.122:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 34.106.89.103:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4 - Not Vulnerable
+2024-08-24 20:19:03 - 126.125.104.115:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
+2024-08-24 20:19:03 - 35.168.171.48:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:19:03 - 165.227.23.159:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:19:03 - 37.128.144.35:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 192.163.177.141:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 204.48.19.206:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:19:03 - 197.5.145.141:22 - SSH-2.0--
+  Xa*g-g   >diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1   #ecdsa-sha2-nistp521,ssh-dss,ssh-rsa   4aes256-ctr,aes128-ctr,aes256-cbc,aes128-cbc,3des-cbc   4aes256-ctr,aes128-ctr,aes256-cbc,aes128-cbc,3des-cbc   Jhma - Not Vulnerable
+2024-08-24 20:19:03 - 13.125.127.137:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:19:03 - 69.195.124.99:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 89.117.73.141:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6 - Not Vulnerable
+2024-08-24 20:19:03 - 136.144.233.145:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 219.115.34.221:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.9 - Not Vulnerable
+2024-08-24 20:19:03 - 222.125.240.186:22 - SSH-2.0-OpenSSH_9.1 - Not Vulnerable
+2024-08-24 20:19:03 - 202.139.198.40:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 52.73.136.252:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 111.202.125.139:22 - Connection timed out
+2024-08-24 20:19:03 - 44.222.108.248:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 84.94.121.65:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:19:03 - 194.163.178.146:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 130.211.111.77:22 - SSH-2.0-OpenSSH_9.6p1 r3 - Not Vulnerable
+2024-08-24 20:19:03 - 73.101.15.194:22 - Exceeded MaxStartups - Not Vulnerable
+2024-08-24 20:19:03 - 149.166.93.205:22 - SSH-2.0-OpenSSH_5.3 - Not Vulnerable
+2024-08-24 20:19:03 - 2a01:2 - [Errno 8] nodename nor servname provided, or not known
+2024-08-24 20:19:03 - 34.235.138.211:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:19:03 - 124.156.214.51:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 124.223.179.25:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.6 - Not Vulnerable
+2024-08-24 20:19:03 - 142.0.139.109:22 - [Errno 54] Connection reset by peer
+2024-08-24 20:19:03 - 154.206.66.153:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 85.226.188.38:22 - Connection timed out
+2024-08-24 20:19:03 - 1.13.13.184:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 123.56.47.15:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 8.134.33.132:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2 - Not Vulnerable
+2024-08-24 20:19:03 - 195.16.241.252:22 - SSH-1.99-OpenSSH_4.4 - Not Vulnerable
+2024-08-24 20:19:03 - 191.198.15.240:22 - Connection timed out
+2024-08-24 20:19:03 - 34.39.130.78:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 138.68.99.37:22 - SSH-2.0-OpenSSH_6.6.1 - Not Vulnerable
+2024-08-24 20:19:03 - 149.161.124.191:22 - SSH-2.0-OpenSSH_5.3 - Not Vulnerable
+2024-08-24 20:19:03 - 162.144.185.155:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 167.235.142.225:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 185.183.208.103:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:19:03 - 133.18.202.127:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
+2024-08-24 20:19:03 - 47.120.74.194:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:19:03 - 188.164.198.213:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 103.231.86.52:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.1 - Not Vulnerable
+2024-08-24 20:19:03 - 50.87.153.89:22 - SSH-2.0-OpenSSH_5.3 - Not Vulnerable
+2024-08-24 20:19:03 - 64.207.146.74:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 85.9.101.27:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.1 - Not Vulnerable
+2024-08-24 20:19:03 - 83.97.77.171:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 18.179.72.192:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:19:03 - 34.75.44.81:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:19:03 - 38.145.142.225:22 - Exceeded MaxStartups - Not Vulnerable
+2024-08-24 20:19:03 - 45.63.92.197:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:19:03 - 78.46.181.115:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:19:03 - 211.149.206.21:22 - [Errno 61] Connection refused
+2024-08-24 20:19:03 - 66.97.33.102:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:19:03 - 50.5.142.82:22 - Connection timed out
+2024-08-24 20:22:12 - 192.248.181.209:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:22:12 - 38.12.46.14:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 188.67.226.77:22 - SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1 - Not Vulnerable
+2024-08-24 20:22:12 - 116.202.39.92:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 45.171.152.41:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2 - Not Vulnerable
+2024-08-24 20:22:12 - 128.199.66.73:22 - SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.4 - Not Vulnerable
+2024-08-24 20:22:12 - 165.227.120.2:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.9 - Not Vulnerable
+2024-08-24 20:22:12 - 3.22.220.55:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:22:12 - 104.238.160.222:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:22:12 - 142.4.196.97:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:22:12 - 139.59.4.200:22 - SSH-2.0-OpenSSH_9.0p1 Ubuntu-1ubuntu7 - Not Vulnerable
+2024-08-24 20:22:12 - 43.136.235.199:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:22:12 - 18.135.42.92:22 - Connection timed out
+2024-08-24 20:22:12 - 45.76.14.248:22 - SSH-2.0-OpenSSH_5.3 - Not Vulnerable
+2024-08-24 20:22:12 - 54.160.81.155:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 160.94.6.215:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:22:12 - 45.239.86.3:22 - Connection timed out
+2024-08-24 20:22:12 - 111.230.116.111:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2 - Not Vulnerable
+2024-08-24 20:22:12 - 74.50.89.210:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:22:12 - 52.66.22.216:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 166.88.230.165:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:22:12 - 78.70.15.237:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 159.69.121.25:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 112.124.7.187:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 167.235.201.113:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 13.230.24.117:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 194.163.165.3:22 - Connection timed out
+2024-08-24 20:22:12 - 101.53.129.2:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:22:12 - 34.130.132.72:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:22:12 - 64.111.99.77:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 74.50.126.48:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 62.212.69.170:22 - SSH-2.0-OpenSSH_4.3 - Not Vulnerable
+2024-08-24 20:22:12 - 101.133.132.34:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 183.147.126.252:22 - Connection timed out
+2024-08-24 20:22:12 - 47.242.35.138:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 185.246.66.133:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:22:12 - 35.90.162.230:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:22:12 - 83.166.146.189:22 - SSH-2.0-OpenSSH_6.7p1
+  |nP5ob`   curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha1   /ssh-rsa,ssh-dss,ecdsa-sha2-nistp256,ssh-ed25519   Nae - Not Vulnerable
+2024-08-24 20:22:12 - 13.59.50.1:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 212.111.197.143:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 120.25.188.33:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 46.105.47.156:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:22:12 - 192.185.84.26:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 122.114.0.249:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 20.102.105.195:22 - SSH-2.0-OpenSSH_for_Windows_8.1 - Not Vulnerable
+2024-08-24 20:22:12 - 52.220.169.238:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 121.37.102.101:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6 - Not Vulnerable
+2024-08-24 20:22:12 - 20.169.151.0:22 - Connection timed out
+2024-08-24 20:22:12 - 57.128.85.75:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:22:12 - 72.14.186.46:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:22:12 - 5.78.121.76:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 34.146.105.43:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:22:12 - 170.130.236.168:22 - [Errno 54] Connection reset by peer
+2024-08-24 20:22:12 - 104.168.26.218:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 137.74.137.242:22 - Connection timed out
+2024-08-24 20:22:12 - 194.55.12.48:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:22:12 - 47.120.5.156:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 34.168.41.64:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:22:12 - 5.202.14.22:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 18.234.92.70:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:22:12 - 167.99.123.201:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:22:12 - 35.232.39.0:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:22:12 - 67.20.73.190:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 167.235.70.247:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.7 - Not Vulnerable
+2024-08-24 20:22:12 - 47.75.154.254:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 2a03:123 - [Errno 8] nodename nor servname provided, or not known
+2024-08-24 20:22:12 - 103.252.90.166:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:22:12 - 185.156.43.44:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.7 - Not Vulnerable
+2024-08-24 20:22:12 - 130.158.39.228:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 159.203.177.168:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:22:12 - 128.140.67.155:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 158.69.71.182:22 - SSH-2.0-OpenSSH_6.9p1 Ubuntu-2ubuntu0.1 - Not Vulnerable
+2024-08-24 20:22:12 - 173.212.204.53:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:22:12 - 114.250.17.27:22 - Connection timed out
+2024-08-24 20:22:12 - 81.71.142.252:22 - Connection timed out
+2024-08-24 20:22:12 - 38.181.169.43:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:22:12 - 54.158.7.250:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 5.161.209.96:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 159.65.195.217:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:22:12 - 49.232.134.199:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 150.158.151.45:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 107.191.60.37:22 - Connection timed out
+2024-08-24 20:22:12 - 163.172.204.254:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 52.64.31.106:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:22:12 - 213.205.79.56:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:22:12 - 167.71.16.139:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 211.149.172.15:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 143.198.234.245:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
+2024-08-24 20:22:12 - 208.109.16.120:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:22:12 - 182.160.109.69:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 131.108.225.248:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 37.60.224.187:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:22:12 - 109.120.187.184:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.7 - Not Vulnerable
+2024-08-24 20:22:12 - 34.123.166.33:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4 - Not Vulnerable
+2024-08-24 20:22:12 - 45.117.78.145:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:22:12 - 34.142.20.52:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:22:12 - 34.171.181.160:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:22:12 - 211.149.225.248:22 - [Errno 61] Connection refused
+2024-08-24 20:22:12 - 120.89.69.172:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 192.248.181.209:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:34:07 - 38.12.46.14:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 188.67.226.77:22 - SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1 - Not Vulnerable
+2024-08-24 20:34:07 - 116.202.39.92:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 45.171.152.41:22 - SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2 - Not Vulnerable
+2024-08-24 20:34:07 - 165.227.120.2:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.9 - Not Vulnerable
+2024-08-24 20:34:07 - 128.199.66.73:22 - SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.4 - Not Vulnerable
+2024-08-24 20:34:07 - 3.22.220.55:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:34:07 - 104.238.160.222:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:34:07 - 142.4.196.97:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:34:07 - 139.59.4.200:22 - SSH-2.0-OpenSSH_9.0p1 Ubuntu-1ubuntu7 - Not Vulnerable
+2024-08-24 20:34:07 - 18.135.42.92:22 - Connection timed out
+2024-08-24 20:34:07 - 43.136.235.199:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:34:07 - 45.76.14.248:22 - SSH-2.0-OpenSSH_5.3 - Not Vulnerable
+2024-08-24 20:34:07 - 160.94.6.215:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:34:07 - 54.160.81.155:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 45.239.86.3:22 - Connection timed out
+2024-08-24 20:34:07 - 111.230.116.111:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2 - Not Vulnerable
+2024-08-24 20:34:07 - 52.66.22.216:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 74.50.89.210:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:34:07 - 166.88.230.165:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:34:07 - 78.70.15.237:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 159.69.121.25:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 112.124.7.187:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 167.235.201.113:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 13.230.24.117:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 194.163.165.3:22 - Connection timed out
+2024-08-24 20:34:07 - 104.165.180.18:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 101.53.129.2:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:34:07 - 34.130.132.72:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:34:07 - 64.111.99.77:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 74.50.126.48:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 62.212.69.170:22 - SSH-2.0-OpenSSH_4.3 - Not Vulnerable
+2024-08-24 20:34:07 - 101.133.132.34:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 47.242.35.138:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 183.147.126.252:22 - Connection timed out
+2024-08-24 20:34:07 - 185.246.66.133:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:34:07 - 83.166.146.189:22 - SSH-2.0-OpenSSH_6.7p1
+  |cÒ0°Ê²]ë¬°PÆ   curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha1   /ssh-rsa,ssh-dss,ecdsa-sha2-nistp256,ssh-ed25519   Nae - Not Vulnerable
+2024-08-24 20:34:07 - 13.59.50.1:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 35.90.162.230:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:34:07 - 212.111.197.143:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 120.25.188.33:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 46.105.47.156:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:34:07 - 192.185.84.26:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 122.114.0.249:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 20.102.105.195:22 - SSH-2.0-OpenSSH_for_Windows_8.1 - Not Vulnerable
+2024-08-24 20:34:07 - 52.220.169.238:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 121.37.102.101:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6 - Not Vulnerable
+2024-08-24 20:34:07 - 57.128.85.75:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:34:07 - 72.14.186.46:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:34:07 - 20.169.151.0:22 - Connection timed out
+2024-08-24 20:34:07 - 5.78.121.76:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 34.146.105.43:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:34:07 - 170.130.236.168:22 - [Errno 54] Connection reset by peer
+2024-08-24 20:34:07 - 2a03:123 - [Errno 8] nodename nor servname provided, or not known
+2024-08-24 20:34:07 - 137.74.137.242:22 - Connection timed out
+2024-08-24 20:34:07 - 104.168.26.218:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 194.55.12.48:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:34:07 - 47.120.5.156:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 5.202.14.22:22 - Exceeded MaxStartups - Not Vulnerable
+2024-08-24 20:34:07 - 34.168.41.64:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:34:07 - 18.234.92.70:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:34:07 - 167.99.123.201:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:34:07 - 35.232.39.0:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:34:07 - 67.20.73.190:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 167.235.70.247:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.7 - Not Vulnerable
+2024-08-24 20:34:07 - 47.75.154.254:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 103.252.90.166:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:34:07 - 185.156.43.44:22 - SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.7 - Not Vulnerable
+2024-08-24 20:34:07 - 130.158.39.228:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 159.203.177.168:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:34:07 - 128.140.67.155:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 158.69.71.182:22 - SSH-2.0-OpenSSH_6.9p1 Ubuntu-2ubuntu0.1 - Not Vulnerable
+2024-08-24 20:34:07 - 173.212.204.53:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:34:07 - 114.250.17.27:22 - Connection timed out
+2024-08-24 20:34:07 - 81.71.142.252:22 - Connection timed out
+2024-08-24 20:34:07 - 159.65.195.217:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:34:07 - 38.181.169.43:22 - SSH-2.0-OpenSSH_8.7 - Not Vulnerable
+2024-08-24 20:34:07 - 54.158.7.250:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 5.161.209.96:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 49.232.134.199:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 150.158.151.45:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 107.191.60.37:22 - Connection timed out
+2024-08-24 20:34:07 - 163.172.204.254:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 213.205.79.56:22 - SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3 - Not Vulnerable
+2024-08-24 20:34:07 - 52.64.31.106:22 - SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3 - Not Vulnerable
+2024-08-24 20:34:07 - 167.71.16.139:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 211.149.172.15:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 143.198.234.245:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5 - Not Vulnerable
+2024-08-24 20:34:07 - 208.109.16.120:22 - SSH-2.0-OpenSSH_8.0 - Not Vulnerable
+2024-08-24 20:34:07 - 182.160.109.69:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 131.108.225.248:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 109.120.187.184:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.7 - Not Vulnerable
+2024-08-24 20:34:07 - 37.60.224.187:22 - SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11 - Not Vulnerable
+2024-08-24 20:34:07 - 45.117.78.145:22 - SSH-2.0-OpenSSH_7.4 - Not Vulnerable
+2024-08-24 20:34:07 - 34.142.20.52:22 - SSH-2.0-OpenSSH_9.6 - Not Vulnerable
+2024-08-24 20:34:07 - 211.149.225.248:22 - [Errno 61] Connection refused
+2024-08-24 20:34:07 - 34.171.181.160:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 120.89.69.172:22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10 - Not Vulnerable
+2024-08-24 20:34:07 - 34.123.166.33:22 - Connection timed out
