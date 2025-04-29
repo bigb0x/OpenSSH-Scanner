@@ -240,7 +240,7 @@ def main():
             sys.exit(1)
     elif args.ip:
         if ':' in args.ip:
-            host, port = args.url.split(':')
+            host, port = args.ip.split(':')
             q.put((host, int(port)))
         else:
             q.put((args.ip, 22))
